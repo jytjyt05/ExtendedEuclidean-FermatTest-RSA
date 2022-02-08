@@ -14,9 +14,9 @@ def decypher(result,length):
 result1=pow(395415567933,14699465729,472221735719)
 length1=len(str(result1))
 decypher(result1,length1)
-##end of question 6a
+##end of first 
 ##
-    
+
 N=150306660227
 e=257
 
@@ -47,7 +47,7 @@ print(d)
 result2=pow(58565857117,d,N)
 length2=len(str(result2))
 decypher(result2,length2)
-##end of question 6b
+##end of second
 ##
 
 def FermatTest(n,trials):
@@ -87,5 +87,5 @@ else:
     length3+=1
     
 decypher(result3,length3)
-##end of question 6c
+##end of 3rd
 ##
