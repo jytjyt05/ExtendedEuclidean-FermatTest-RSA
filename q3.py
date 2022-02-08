@@ -1,6 +1,4 @@
 #yuting ji
-#hw 10
-#question 3
 import random
 import sys
 sys.setrecursionlimit(2500)
