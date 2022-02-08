@@ -1,6 +1,4 @@
 #yuting ji
-#hw10
-#question 6
 
 resource=('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
 def decypher(result,length):
