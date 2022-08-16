@@ -1,4 +1,4 @@
-# 3 little tasks
+# Extended Euclid algorithm and RSA decryption&encryption
 
 Here are three sample python code I did when I was taking Logic and Computation.
 
